@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(193, 193, 220)
+}
+
+.round {
+    color: purple;
+}
+
+#blackTitle {
+    color: black;
+}
+
+#whiteTitle {
+    color: white;
+}
+
+#blueTitle {
+    color: blue;
+}
+
+#yellowTitle {
+    color: yellow;
+}
+
+#redTitle {
+    color: red;
+}
+
+button {
+    color: purple;
+}
+
+input {
+    height: 12px;
+    width: 50px;
+}
+
